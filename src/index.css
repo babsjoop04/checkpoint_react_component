@@ -1,0 +1,17 @@
+body {
+  background-color: #ccd5ae;
+}
+
+#addr,
+#name,
+#photocont {
+  margin: 6%;
+}
+
+#root {
+  margin-top: 5%;
+  border-radius: 30px 0px;
+  border: 20px ridge #d4a373;
+  box-shadow: 5px 5px 20px 5px #f9b774;
+  background-image: url(./Component/Profile/img/1307579_large36131.jpg);
+}
